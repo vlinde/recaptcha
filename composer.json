@@ -1,5 +1,5 @@
 {
-    "name": "mostafaznv/recaptcha",
+    "name": "vlinde/recaptcha",
     "description": "Laravel package for Google Recaptcha v3",
     "keywords": [
         "recaptcha",
